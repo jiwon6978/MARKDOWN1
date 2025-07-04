@@ -62,8 +62,14 @@ HELLO WORLD
 
 ## 링크(바로가기)
 
-.[텍스트].(url). <br>
-.[네이버].(https://naver.com).
+- .[텍스트].(url). <br>
+ - .[네이버].(https://naver.com).
+
+-새 탭 열어서 링크 이동
+ -.[네이버].(https://naver.com)
+ <a href="https://naver.com" target="_blank"> 새 탭 열고 이동 </a>
+
+
 
 
 
