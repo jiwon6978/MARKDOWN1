@@ -69,12 +69,25 @@ HELLO WORLD
  -.[네이버].(https://naver.com)
  <a href="https://naver.com" target="_blank"> 새 탭 열고 이동 </a>
 
+# 이미지
 
 
 
+# 인용문
+> hello world
+>> hello world 
+
+# 표 
+<!--정렬,컬러-->
+
+|제목|-|-|
+|-:|:-:|:-|
+|내용|hello world|aaa|
+|내용2|bye world|bbb|
+|내용3|see you world|ccc|
 
 
-
+# 코드블럭
 
 
 
