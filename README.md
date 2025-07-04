@@ -67,7 +67,7 @@ HELLO WORLD
 
 -새 탭 열어서 링크 이동
  -.[네이버].(https://naver.com)
- <a href="https://naver.com" target="_blank"> rel="noopener noreferrer"> 새 탭 열고 이동 </a>
+ <a href="https://naver.com" target="_blank"> 새 탭 열고 이동 </a>
 
 
 
