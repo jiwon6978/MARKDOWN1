@@ -62,15 +62,20 @@ HELLO WORLD
 
 ## 링크(바로가기)
 
-- .[텍스트].(url). <br>
- - .[네이버].(https://naver.com).
+- [텍스트](url) <br>
+ - [네이버](https://naver.com)
 
 -새 탭 열어서 링크 이동
  -.[네이버].(https://naver.com)
  <a href="https://naver.com" target="_blank"> 새 탭 열고 이동 </a>
 
 # 이미지
+![제목](./test.jpg)
+<!--.점은 '현재'라는 뜻이고 /는 파일이라는 뜻이라 ./는 현재파일이라는 뜻-->
 
+---
+
+<img src="./test.jpg" width="300" height="200" alt="" />
 
 
 # 인용문
@@ -87,7 +92,18 @@ HELLO WORLD
 |내용3|see you world|ccc|
 
 
-# 코드블럭
+# 코드블럭(삼중백틱)
+
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+ </head>
+ <body>
+  <h1>hello world</h1>
+ </body>
+</html>
+```
 
 
 
